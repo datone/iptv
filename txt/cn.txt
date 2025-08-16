@@ -71,7 +71,7 @@
 [BD]海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
 [BD]海峡卫视,https://stream1.freetv.fun/ba0cb96ba000eebc5a91bd4ffcaed72334b786255d15f293d5f09f19c344cc0f.m3u8
 [BD]深圳卫视,https://stream1.freetv.fun/812cad00d672662e36b8a4a3d967ab826c0d8f4a3fd02ee64389b0bdc116bd43.ctv
-[BD]深圳都市,https://stream1.freetv.fun/ad93df03a34ef2480f403c893d60bff60d69bb98528b34a41171c1d9421282d9.ctv
+[BD]深圳都市,https://stream1.freetv.fun/fa8da6f6b230339ee3245d938e5db1efed49505cec0dfdeec5f7a4d627cb5bee.ctv
 [BD]湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.ctv
 [VGA]湖南国际,https://stream1.freetv.fun/0a73013e3d5583d05515fd78f36af0d3a20499a25d5137ea1f09b85b72ae9ba3.ctv
 [VGA]湖南经视,https://stream1.freetv.fun/6f0b31518346cada296803b419dcfd9e60a0b9f5ffd192a057e3e8747264db55.ctv
@@ -137,6 +137,7 @@
 [SD]常山新闻综合,https://stream1.freetv.fun/2b5ebb6af6fd593a4a908adbc38c7c8d31cad28c9c4b1386c00a38d91ce176bc.m3u8
 [BD]广西国际,https://stream1.freetv.fun/183f2221f66a05a31ae1c3da27be6554f43b414aba3e4215f15cf9f244e3f24d.m3u8
 [BD]杭州综合,https://stream1.freetv.fun/dace29d84a208ac463c9eda2e26e59f8f6a02fc61f549fb003d1903df9b60473.m3u8
+[VGA]江苏教育,https://stream1.freetv.fun/5e94f192b45e444b65af0a66bb0a2d1f48dc8aacdc77c29e74ec05c50a390155.ctv
 [SD]江西教育,https://stream1.freetv.fun/78eb120e5003e4c379e182cc7b7c8abe0fcd835c3d9e33cc58a04b1648b184a7.ctv
 [BD]洛阳综合,https://stream1.freetv.fun/bb623d9df441f9ba90275d3cfe6de7cb59f62ebdeddabdca55ed51b13f81f3f5.m3u8
 [BD]洛阳科教,https://stream1.freetv.fun/6bdd74e821a4c6d6cc8474e9acf9267f121dbaa61b4b72e7f2700bf00f59a4de.m3u8
@@ -154,7 +155,7 @@
 [HD]苏州生活资讯,https://stream1.freetv.fun/af6886fb855d6d9b5ef6572791e7e0b860fa77a6fdc3e9b7c69751d0972d78bb.m3u8
 [BD]苏州社会经济,https://stream1.freetv.fun/9a258bbb732279f3c02728501e2a9c7b9ab995f5a71e0d952a9b6f4268f7edc7.m3u8
 [BD]西安影视,https://stream1.freetv.fun/aab99faea811872797df9493f77cc6d6b3550bb9d2291298f50de555ede377d7.m3u8
-[SD]西安都市,https://stream1.freetv.fun/c116c395dc8b06317e572fe490a410ba9cfc499e6dd8f6a8be8a21606c74e012.m3u8
+[BD]西安都市,https://stream1.freetv.fun/8acd412a722337e2265affed3d50d46eb6d58eee162fcfd76c4a02d9be09804e.m3u8
 [SD]西宁生活,https://stream1.freetv.fun/dd5254c5a934c3213ca8601bcff5104bdcf96b9900b18f8ef8cbd6e9844dcd49.m3u8
 [BD]西宁生活服务,https://stream1.freetv.fun/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8
 [BD]邢台生活,https://stream1.freetv.fun/15c753e55509e76adcacaea1e9fd25e488f46288bb427a147d28166da66a75c0.m3u8
@@ -212,7 +213,7 @@
 [BD]宁波新闻综合,https://stream1.freetv.fun/5eee88e93c5b7681cfbae7b627b7cd4cfd90bed45a87eb8290a933f15ad81aca.m3u8
 [SD]承德新闻综合,https://stream1.freetv.fun/260cf3e1c3904ef410a2c77c05cbd43b759ad6ab4da12e4096a9d80706ab00d5.m3u8
 [HD]广州新闻,https://stream1.freetv.fun/d85db11a46950343792558eabc684c0fe4c8a0ccb81e7c4a3acd3b02f304f0fb.m3u8
-[BD]广东新闻,https://stream1.freetv.fun/b63052b9774dfbea01edc9bc9e3c9880148eddd953a626dfa5485f6a17a6aed9.ctv
+[BD]广东新闻,https://stream1.freetv.fun/c720f6a136abc54cb154f928306bfb58534777b7d32c2aa51bbac65d8fb6f94f.ctv
 [HD]成都简阳新闻综合,https://stream1.freetv.fun/172f7315edf1f78d2bfcfd76ba47b03d177f61fc9676fb37dce298e93ac77662.ctv
 [HD]德阳新闻综合,https://stream1.freetv.fun/7843b376e8a499362dd7976083efa7a2176f8c6b95908b1467bf170bdfe17c06.m3u8
 [BD]新野新闻综合频道,https://stream1.freetv.fun/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8
@@ -248,6 +249,7 @@
 [BD]西安新闻综合,https://stream1.freetv.fun/13aa6d5ca62434ac6a966dc0dda0b717d37167f19c94979a9827c20d297d2ff1.m3u8
 [BD]西宁新闻,https://stream1.freetv.fun/ce3000822161c45f61da075132a560e4542284588c8d86e73145495f522300d3.m3u8
 [BD]西宁新闻综合频道,https://stream1.freetv.fun/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8
+[VGA]连云港新闻综合,https://stream1.freetv.fun/c026e00e084889aff791df402170b37bbdf55244f8f595ea61c37416e94b5c1e.ctv
 [BD]宿州新闻综合,https://stream1.freetv.fun/fbb3a8fa59adedf0a3cf8efd333a675e51c428142679aff1fdab3ca5a5b9ad74.m3u8
 [BD]金川新闻综合,rtmp://139.203.180.9/live/zhxw
 [VGA]靖江新闻综合,https://stream1.freetv.fun/6c3be19fbdf8e6ad7dacfe528293b05960570b96a64e4369298d7e6e0997197e.m3u8
