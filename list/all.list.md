@@ -158,7 +158,7 @@
 | 152 | [HD]bethel tv | stream1.freetv.fun | <https://stream1.freetv.fun/2576f524afb43cb92ead0802f3da48b35133473d6616282c81b94d82165d5a04.m3u8> |
 | 153 | [VGA]beyaz tv | stream1.freetv.fun | <https://stream1.freetv.fun/4d4add30901e2f859cd70b4c88047c07e4b443a5e9b26b0659282d23f84f5f19.m3u8> |
 | 154 | [BD]bibel tv musik | stream1.freetv.fun | <https://stream1.freetv.fun/c2dd6f213d4898b2fd6caa94ba5b481a7f20fe154a4f06f472534fc9efb418dc.m3u8> |
-| 155 | [VGA]ช่อง billiards plus | stream1.freetv.fun | <https://stream1.freetv.fun/8fdcf885b47fd02998f72a5022bd24942d282a416214570d85e2a60cc31e6205.m3u8> |
+| 155 | [HD]world billiards tv | stream1.freetv.fun | <https://stream1.freetv.fun/6187e0c9962f3ebee1547f73a33372f67718ad7b42d042a96d857fe0182668b3.m3u8> |
 | 156 | [SD].black | stream1.freetv.fun | <https://stream1.freetv.fun/3ccda69806c1375f8bc1bab358071c9ce3e528c69734b26cc97b99807008e700.m3u8> |
 | 157 | [BD]bloomberg tv plus | stream1.freetv.fun | <https://stream1.freetv.fun/542fe1cce0fc83fc98199b8449827f200479ad911362c1033b3c11b7a8fe416e.m3u8> |
 | 158 | [VGA]bloomberg ht | stream1.freetv.fun | <https://stream1.freetv.fun/db127be51626697a5ea23ff1feeabfab6c7d8bb34deb82d8456ba83bae54030b.m3u8> |
@@ -447,7 +447,7 @@
 | 441 | [BD]gong | stream1.freetv.fun | <https://stream1.freetv.fun/680530a9740987571bae50b5e48225b2d4ce2c47f3f2b40ed52dba1c7bfc6f20.m3u8> |
 | 442 | [SD]gs tv | stream1.freetv.fun | <https://stream1.freetv.fun/a8099dd2246b42413315b692e50bc398c63bdaeb2274a5a434db92e1678663e5.m3u8> |
 | 443 | [BD]lgtv | stream1.freetv.fun | <https://stream1.freetv.fun/f1e37d5c25e49cdba979ee0701de0fe0aaeaca1849916fb7b9eebe837e2e27be.m3u8> |
-| 444 | [SD]galaxy | stream1.freetv.fun | <https://stream1.freetv.fun/1190f52efa8ce719a4b771d30159f92473c11d08953ac9f8681e2279ce23b62f.m3u8> |
+| 444 | [SD]galaxy | stream1.freetv.fun | <https://stream1.freetv.fun/9a10ac0132d70b5fb33d1d81e234bf5d771c4a55896898d5ec78dde529fcbfd1.ctv> |
 | 445 | [VGA]tv galicia | stream1.freetv.fun | <https://stream1.freetv.fun/965d5f7228cb8bc2324ab3fc64ba826cbf619a321e62c8484e9a6cef931ed260.m3u8> |
 | 446 | [HD]haber global | stream1.freetv.fun | <https://stream1.freetv.fun/c6b55b22e83387248af6e6f11496a37a7621872264efddff9cf5d2e15c03c5d8.m3u8> |
 | 447 | [HD]globo news | stream1.freetv.fun | <https://stream1.freetv.fun/6dfb27b02726b25364b04ccecd5ffe293f7b7cfc87e5601eca7dbc2760b6a768.ctv> |
@@ -1367,4 +1367,4 @@
 | 1361 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 | 1362 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/683060089384f9db90b6996b4a9eed2ffe2f42aa9b2ec8d4b55330630fc5df68.m3u8> |
 
-Updated at **Sat Feb 14 2026 08:37:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 14 2026 16:35:23 GMT+0000 (Coordinated Universal Time)**
