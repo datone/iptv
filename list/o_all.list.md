@@ -1,4 +1,4 @@
-# List for **iptv.org All**(Rollback)
+# List for **iptv.org All**
 
 > M3U: [o_all.m3u](/o_all.m3u), TXT: [o_all.txt](/txt/o_all.txt)
 
@@ -10054,4 +10054,4 @@
 | 10048 | Zvezda Plus HD (1080p) | tvzvezda.bonus-tv.ru | <http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8> |
 | 10049 | Zwei Music Television | zweiapp.b-cdn.net | <https://zweiapp.b-cdn.net/1080p/index.m3u8> |
 
-Updated at **Thu Oct 01 2026 04:59:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 15:14:27 GMT+0000 (Coordinated Universal Time)**
